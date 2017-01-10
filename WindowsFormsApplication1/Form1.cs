@@ -20,11 +20,10 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("original text");
-
-
-            MessageBox.Show("Dev2 messages => 2.1");
+			MessageBox.Show("Dev2 messages => 2.1");
             MessageBox.Show("Dev2 messages => 2.2");
-            MessageBox.Show("Dev2 messages => 2.3");
-        }
+            MessageBox.Show("Dev2 messages => 2.3");			MessageBox.Show("Dev1 messages => 1.1");
+            MessageBox.Show("Dev1 messages => 1.2");
+            MessageBox.Show("Dev1 messages => 1.3");        }
     }
 }
