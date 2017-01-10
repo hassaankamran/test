@@ -20,6 +20,9 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("original text");
+            MessageBox.Show("Dev 1 => sample 1");
+            MessageBox.Show("Dev 1 => sample 2");
+            MessageBox.Show("Dev 1 => sample 3");
         }
     }
 }
